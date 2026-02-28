@@ -962,8 +962,8 @@ function Home() {
             <div className="text-right">
               <p className={`text-sm mb-2 ${darkMode ? 'text-zinc-500' : 'text-zinc-400'}`}>{content.uiTexts?.footerText}</p>
               <div className="flex items-center justify-end gap-4">
-                <p className={`text-xs ${darkMode ? 'text-zinc-600' : 'text-zinc-500'}`}>Designed & Developed with Sanjarbek Otabekov 
-                  We extend our heartfelt thanks to Sanjarbek and wish him continued success in his future endeavors.
+                <p className={`text-xs ${darkMode ? 'text-zinc-600' : 'text-zinc-500'}`}>Designed & Developed with Sanjarbek Otabekov 💻✨
+We extend our heartfelt thanks to Sanjarbek and wish him continued success in his future endeavors 🌟🚀
                 </p>
                 <Link to="/login" className={`flex items-center gap-2 px-4 py-2 rounded-full text-xs font-bold transition-all ${darkMode ? 'bg-zinc-800 text-white hover:bg-zinc-700' : 'bg-zinc-200 text-black hover:bg-zinc-300'}`}>
                   <Lock size={14} /> Admin
